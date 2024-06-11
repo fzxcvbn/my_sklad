@@ -1,0 +1,206 @@
+.conteiner-start, .add-option {
+    text-align: center;
+}
+.h2-style-start {
+    font-family: Montserrat;
+    color: #232d4b;
+}
+.p-style-start {
+    font-family: Montserrat;
+    color: #232d4b;
+}
+.type-tarif-paid {
+    display: flex;
+}
+.type-tarif {
+    display: flex;
+    margin: 15px;
+}
+.type-tarif-separately {
+    margin-left: 17px;
+    text-align: center;
+}
+.price-year {
+    font-size: 22px;
+    margin-top: -13px;
+}
+.ruble {
+    font-size: 13px;
+}
+.ruble-month {
+    font-size: 12px;
+}
+.btn-plug {
+    border: 2px solid #2855af;
+    color: #2855af;
+    border-radius: 10px;
+    padding: 15px 20px 15px 20px;
+    font-size: 14px;
+    width: 60px;
+    transition: 0.5s;
+}
+.conteiner-paid {
+    margin: 35px 35px 35px 3px;
+    font-size: 14px;
+}
+.infinity, .infinity-cool {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+}
+.infinity {
+    margin-top: -10px;
+}
+.margin-bottom {
+    margin-top: -4px;
+}
+.infinity-cool {
+    margin-bottom: -9px;
+}
+.all-variant-pay {
+    margin-top: 35px;
+}
+.margin-type-tarif-separately {
+    margin: 25px 0px 25px 0px;
+}
+.empty-symbol {
+    color: white;
+}
+.conteiner2-start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue {
+    color: #2855af;
+}
+.blue-btn {
+    background-color: #2855af;
+    color: white;
+    transition: 0.5s;
+}
+.transparent {
+    color: gray;
+}
+.blue-transparent {
+    color: #2855afcc;
+}
+.btn-plug:hover {
+    background-color: #2855af;
+    color: white;
+    cursor: pointer;
+}
+.blue-btn:hover {
+    background-color: #21387e;
+    border: 2px solid #21387e;
+}
+.free-days {
+    color: gray;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.conteiner-second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conteiner2-second {
+    display: flex;
+}
+.background-element-second {
+    background-color: #edfbff;
+    border-radius: 3px;
+    margin: 10px;
+    width: 100px;
+}
+.element-second {
+    padding: 20px 45px 20px 45px;
+
+}
+.conteiner-explanation {
+    margin: 35px 35px 40px 3px;
+    font-size: 14px;
+}
+.plus-minus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6px;
+    margin-bottom: 22px;
+    user-select: none;
+}
+.button {
+    background-color: #B1C6EF;
+    align-items: center;
+    display: flex;
+    color: #5078C8;
+    border-radius: 5px;
+    width: 25px;
+    height: 25px;
+    font-size: 22px;
+    margin-top: 28px;
+    margin-bottom: 5px;
+    text-align: center;
+    cursor: pointer;
+    max-width: 100%;
+    margin-top: 10px;
+}
+.minus {
+    visibility: hidden;
+    padding-left: 8px;
+    width: 17px;
+    margin-right: auto;
+    margin-left: 5px;
+}
+.plus {
+    display: block;
+    margin-left: auto;
+    margin-right: 5px;
+}
+.num-less {
+    font-size: 14px;
+    margin-top: 5px;
+}
+.button:hover  {
+    background-color: #5078C8;
+    color: #B1C6EF;
+}
+.bold {
+    font-weight: bold;
+}
+.img-style-start {
+    width: 20px;
+}
+.circle {
+    opacity: 0.5;
+    cursor: pointer;
+}
+.circle:hover {
+    opacity: 1;
+}
+.display-none {
+    display: none;
+}
+.mini-conteiner-third {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mini-element-third {
+    display: flex;
+    margin: 20px;
+}
+.mini-mini-element-third {
+    width: 250px;
+    margin-left: 30px;
+}
+.price-many {
+    font-size: 30px;
+    margin: -5px 0px -15px 0px
+}
+.opacity-month {
+    opacity: 0.5;
+}
+.element-third-margin {
+    margin-top: -170px
+}
