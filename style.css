@@ -1,19 +1,13 @@
-.conteiner-start, .add-option {
+.conteiner-start, .add-option, .button, .conteiner-forth {
     text-align: center;
 }
-.h2-style-start {
+.h2-style-start, .p-style-start {
     font-family: Montserrat;
-    color: #232d4b;
 }
-.p-style-start {
-    font-family: Montserrat;
-    color: #232d4b;
-}
-.type-tarif-paid {
+.type-tarif-paid, .type-tarif, .conteiner2-second, .mini-element-third {
     display: flex;
 }
 .type-tarif {
-    display: flex;
     margin: 15px;
 }
 .type-tarif-separately {
@@ -31,8 +25,8 @@
     font-size: 12px;
 }
 .btn-plug {
-    border: 2px solid #2855af;
-    color: #2855af;
+    border: 2px solid #2dc7ba;
+    color: #2dc7ba;
     border-radius: 10px;
     padding: 15px 20px 15px 20px;
     font-size: 14px;
@@ -66,16 +60,16 @@
 .empty-symbol {
     color: white;
 }
-.conteiner2-start {
+.conteiner2-start, .conteiner-second, .plus-minus, .mini-conteiner-third, .discount-price, .element-discount-price {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .blue {
-    color: #2855af;
+    color: #1b746c;
 }
 .blue-btn {
-    background-color: #2855af;
+    background-color: #2dc7ba;
     color: white;
     transition: 0.5s;
 }
@@ -83,32 +77,24 @@
     color: gray;
 }
 .blue-transparent {
-    color: #2855afcc;
+    color: #1b746c;
 }
 .btn-plug:hover {
-    background-color: #2855af;
+    background-color: #2dc7ba;
     color: white;
     cursor: pointer;
 }
 .blue-btn:hover {
-    background-color: #21387e;
-    border: 2px solid #21387e;
+    background-color: #1b746c;
+    border: 2px solid #1b746c;
 }
 .free-days {
     color: gray;
     font-size: 13px;
     margin-top: 10px;
 }
-.conteiner-second {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.conteiner2-second {
-    display: flex;
-}
 .background-element-second {
-    background-color: #edfbff;
+    background-color: rgb(242, 242, 242);
     border-radius: 3px;
     margin: 10px;
     width: 100px;
@@ -122,25 +108,21 @@
     font-size: 14px;
 }
 .plus-minus {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     margin-top: 6px;
     margin-bottom: 22px;
     user-select: none;
 }
 .button {
-    background-color: #B1C6EF;
+    background-color: #bff1ed;
     align-items: center;
     display: flex;
-    color: #5078C8;
+    color: #25b4a8;
     border-radius: 5px;
     width: 25px;
     height: 25px;
     font-size: 22px;
     margin-top: 28px;
     margin-bottom: 5px;
-    text-align: center;
     cursor: pointer;
     max-width: 100%;
     margin-top: 10px;
@@ -162,8 +144,8 @@
     margin-top: 5px;
 }
 .button:hover  {
-    background-color: #5078C8;
-    color: #B1C6EF;
+    background-color: #25b4a8;
+    color: #bff1ed;
 }
 .bold {
     font-weight: bold;
@@ -181,13 +163,7 @@
 .display-none {
     display: none;
 }
-.mini-conteiner-third {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 .mini-element-third {
-    display: flex;
     margin: 20px;
 }
 .mini-mini-element-third {
@@ -203,4 +179,20 @@
 }
 .element-third-margin {
     margin-top: -170px
+}
+.flag-discount {
+    background-image: url(флаг.svg);
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    height: 40px;
+    width: 100px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.element-discount-price {
+    margin: 0px 10px 0px 10px;
+}
+.conteiner-forth {
+    background-color: #effffd;
+    padding: 15px 0px 10px 0px;
 }
