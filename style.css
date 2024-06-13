@@ -24,15 +24,6 @@
 .ruble-month {
     font-size: 12px;
 }
-.btn-plug {
-    border: 2px solid #2dc7ba;
-    color: #2dc7ba;
-    border-radius: 10px;
-    padding: 15px 20px 15px 20px;
-    font-size: 14px;
-    width: 60px;
-    transition: 0.5s;
-}
 .conteiner-paid {
     margin: 35px 35px 35px 3px;
     font-size: 14px;
@@ -78,11 +69,6 @@
 }
 .blue-transparent {
     color: #1b746c;
-}
-.btn-plug:hover {
-    background-color: #2dc7ba;
-    color: white;
-    cursor: pointer;
 }
 .blue-btn:hover {
     background-color: #1b746c;
@@ -195,4 +181,9 @@
 .conteiner-forth {
     background-color: #effffd;
     padding: 15px 0px 10px 0px;
+}
+.conteiner2-start {
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
