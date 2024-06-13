@@ -190,7 +190,10 @@
 .a-my-sklad {
     text-decoration: none;
     background-color: #2dc7ba;
-    border-radius: 15px;
-    padding: 5px 10px 5px 10px;
+    border-radius: 23px;
+    padding: 10px 15px 10px 15px;
     color: white;
+}
+.discount-price {
+    padding-bottom: 25px;
 }
