@@ -197,3 +197,30 @@
 .discount-price {
     padding-bottom: 25px;
 }
+.mobile-version-mysklad {
+    text-align: center;
+}
+.mobile-version-img-before-checkMark-mysklad::before {
+    width: 20px;
+    content: "";
+    background-image: url('галочка.png');
+}
+.mobile-version-conteiner-free-mysklad, .mobile-version-conteiner-start-mysklad, .mobile-version-conteiner-bazoviy-mysklad, .mobile-version-conteiner-prof-mysklad, .mobile-version-conteiner-enterprice-mysklad{
+    border: #25b4a8 solid 2px;
+    margin-top: 10px;
+}
+.mobile-version-possibilities-free-mysklad, .mobile-version-possibilities-start-mysklad, .mobile-version-possibilities-bazoivy-mysklad, .mobile-version-possibilities-prof-mysklad, .mobile-version-possibilities-enterprice-mysklad {
+    display: inline-flex;
+}
+
+@media(max-width: 1230px) {
+    .mini-conteiner-third, .discount-price {
+        display: block;
+    }
+    .element-third-margin {
+        margin-top: 0px;
+    }
+    .conteiner2-start, .conteiner-second {
+        display: none;
+    }
+}
