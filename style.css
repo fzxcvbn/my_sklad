@@ -1,104 +1,103 @@
-.conteiner-start, .add-option, .button, .conteiner-forth {
+.conteiner-start-mysklad, .add-option-mysklad, .button-mysklad, .conteiner-forth-mysklad, .mobile-version-mysklad {
     text-align: center;
 }
-.h2-style-start, .p-style-start, .a-my-sklad {
+.font-family-montserrat-mysklad {
     font-family: Montserrat;
 }
-.type-tarif-paid, .type-tarif, .conteiner2-second, .mini-element-third {
+.type-tarif-paid-mysklad, .type-tarif-mysklad, .conteiner2-second-mysklad, .mini-element-third-mysklad {
     display: flex;
 }
-.type-tarif {
+.type-tarif-mysklad {
     margin: 15px;
 }
-.type-tarif-separately {
+.type-tarif-separately-mysklad {
     margin-left: 17px;
     text-align: center;
 }
-.price-year {
+.price-year-mysklad {
     font-size: 22px;
     margin-top: -13px;
 }
-.ruble {
+.ruble-mysklad {
     font-size: 13px;
 }
-.ruble-month {
+.ruble-month-mysklad {
     font-size: 12px;
 }
-.conteiner-paid {
+.conteiner-paid-mysklad {
     margin: 35px 35px 35px 3px;
     font-size: 14px;
 }
-.infinity, .infinity-cool {
+.infinity-mysklad, .infinity-cool-mysklad {
     font-family: 'Courier New', Courier, monospace;
     font-size: 24px;
     font-weight: bold;
 }
-.infinity {
+.infinity-mysklad {
     margin-top: -10px;
 }
-.margin-bottom {
+.margin-bottom-mysklad {
     margin-top: -4px;
 }
-.infinity-cool {
+.infinity-cool-mysklad {
     margin-bottom: -9px;
 }
-.all-variant-pay {
+.all-variant-pay-mysklad {
     margin-top: 35px;
 }
-.margin-type-tarif-separately {
+.margin-type-tarif-separately-mysklad {
     margin: 25px 0px 25px 0px;
 }
-.empty-symbol {
+.empty-symbol-mysklad {
     color: white;
 }
-.conteiner2-start, .conteiner-second, .plus-minus, .mini-conteiner-third, .discount-price, .element-discount-price {
+.conteiner2-start-mysklad, .conteiner-second-mysklad, .plus-minus-mysklad, .mini-conteiner-third-mysklad, .discount-price-mysklad, .element-discount-price-mysklad {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.blue {
+.blue-mysklad {
     color: #1b746c;
 }
-.blue-btn {
+.blue-btn-mysklad {
     background-color: #2dc7ba;
     color: white;
     transition: 0.5s;
 }
-.transparent {
+.transparent-mysklad {
     color: gray;
 }
-.blue-transparent {
+.blue-transparent-mysklad {
     color: #1b746c;
 }
-.blue-btn:hover {
+.blue-btn-mysklad:hover {
     background-color: #1b746c;
     border: 2px solid #1b746c;
 }
-.free-days {
+.free-days-mysklad {
     color: gray;
     font-size: 13px;
     margin-top: 10px;
 }
-.background-element-second {
+.background-element-second-mysklad {
     background-color: rgb(242, 242, 242);
     border-radius: 3px;
     margin: 10px;
     width: 100px;
 }
-.element-second {
+.element-second-mysklad {
     padding: 20px 45px 20px 45px;
-
 }
-.conteiner-explanation {
+.explanation-mysklad {
     margin: 35px 35px 40px 3px;
     font-size: 14px;
 }
-.plus-minus {
+.plus-minus-mysklad {
     margin-top: 6px;
     margin-bottom: 22px;
     user-select: none;
 }
-.button {
+.button-mysklad {
     background-color: #bff1ed;
     align-items: center;
     display: flex;
@@ -113,60 +112,60 @@
     max-width: 100%;
     margin-top: 10px;
 }
-.minus {
+.minus-mysklad {
     visibility: hidden;
     padding-left: 8px;
     width: 17px;
     margin-right: auto;
     margin-left: 5px;
 }
-.plus {
+.plus-mysklad {
     display: block;
     margin-left: auto;
     margin-right: 5px;
 }
-.num-less {
+.num-less-mysklad {
     font-size: 14px;
     margin-top: 5px;
 }
-.button:hover  {
+.button-mysklad:hover  {
     background-color: #25b4a8;
     color: #bff1ed;
 }
-.bold {
+.bold-mysklad {
     font-weight: bold;
 }
-.img-style-start {
+.img-style-start-mysklad {
     width: 20px;
 }
-.circle {
+.circle-mysklad {
     opacity: 0.5;
     cursor: pointer;
 }
-.circle:hover {
+.circle-mysklad:hover {
     opacity: 1;
 }
-.display-none {
+.display-none-mysklad {
     display: none;
 }
-.mini-element-third {
+.mini-element-third-mysklad {
     margin: 20px;
 }
-.mini-mini-element-third {
+.mini-mini-element-third-mysklad {
     width: 250px;
     margin-left: 30px;
 }
-.price-many {
+.price-many-mysklad {
     font-size: 30px;
     margin: -5px 0px -15px 0px
 }
-.opacity-month {
+.opacity-month-mysklad {
     opacity: 0.5;
 }
-.element-third-margin {
+.element-third-margin-mysklad {
     margin-top: -170px
 }
-.flag-discount {
+.flag-discount-mysklad {
     background-image: url(флаг.svg);
     background-repeat: no-repeat;
     padding-top: 10px;
@@ -175,52 +174,68 @@
     margin-left: 20px;
     font-size: 20px;
 }
-.element-discount-price {
+.element-discount-price-mysklad {
     margin: 0px 10px 0px 10px;
 }
-.conteiner-forth {
+.conteiner-forth-mysklad {
     background-color: #effffd;
     padding: 15px 0px 10px 0px;
 }
-.conteiner2-start {
+.conteiner2-start-mysklad {
     position: sticky;
     top: 0;
     background-color: white;
 }
-.a-my-sklad {
+.a-my-sklad-mysklad {
     text-decoration: none;
     background-color: #2dc7ba;
     border-radius: 23px;
     padding: 10px 15px 10px 15px;
     color: white;
 }
-.discount-price {
+.discount-price-mysklad {
     padding-bottom: 25px;
-}
-.mobile-version-mysklad {
-    text-align: center;
-}
-.mobile-version-img-before-checkMark-mysklad::before {
-    width: 20px;
-    content: "";
-    background-image: url('галочка.png');
 }
 .mobile-version-conteiner-free-mysklad, .mobile-version-conteiner-start-mysklad, .mobile-version-conteiner-bazoviy-mysklad, .mobile-version-conteiner-prof-mysklad, .mobile-version-conteiner-enterprice-mysklad{
     border: #25b4a8 solid 2px;
     margin-top: 10px;
 }
-.mobile-version-possibilities-free-mysklad, .mobile-version-possibilities-start-mysklad, .mobile-version-possibilities-bazoivy-mysklad, .mobile-version-possibilities-prof-mysklad, .mobile-version-possibilities-enterprice-mysklad {
+.mobile-version-element-possibilities-mysklad {
     display: inline-flex;
+    margin-bottom: -15px;
+}
+.mobile-version-img-cross-mysklad {
+    width: 15px;
+    height: 15px;
+    padding: 9px;
+    margin-top: 8px;
+}
+.mobile-version-img-checkMark-mysklad {
+    width: 32px;
+    height: 32px;
+    margin-top: 10px;
+}
+.qwerty {
+    margin-top: -50px;
+}
+.price-color-blue-mysklad {
+    color: #00a093;
+}
+.mobile-version-mysklad {
+    display: none;
 }
 
 @media(max-width: 1230px) {
-    .mini-conteiner-third, .discount-price {
+    .mini-conteiner-third-mysklad, .discount-price-mysklad {
         display: block;
     }
-    .element-third-margin {
+    .element-third-margin-mysklad {
         margin-top: 0px;
     }
-    .conteiner2-start, .conteiner-second {
+    .conteiner2-start-mysklad, .conteiner-second-mysklad {
         display: none;
+    }
+    .mobile-version-mysklad {
+        display: block;
     }
 }
