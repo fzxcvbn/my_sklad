@@ -199,6 +199,7 @@
 .mobile-version-conteiner-free-mysklad, .mobile-version-conteiner-start-mysklad, .mobile-version-conteiner-bazoviy-mysklad, .mobile-version-conteiner-prof-mysklad, .mobile-version-conteiner-enterprice-mysklad{
     border: #25b4a8 solid 2px;
     margin-top: 10px;
+    padding-bottom: 10px;
 }
 .mobile-version-element-possibilities-mysklad {
     display: inline-flex;
@@ -214,9 +215,6 @@
     width: 32px;
     height: 32px;
     margin-top: 10px;
-}
-.qwerty {
-    margin-top: -50px;
 }
 .price-color-blue-mysklad {
     color: #00a093;
